@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    border: rgba(229,229,229,0.5) 1px solid;
+    background-color: white;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0px;
+}
+
+.navbar h3{
+    padding-left: 5px;
+}
+
+.navbar h4{
+    font-family: "Snell Roundhand", cursive;
+    padding-left: 10px
+}

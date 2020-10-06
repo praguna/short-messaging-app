@@ -1,0 +1,15 @@
+.App{
+    display: flex;
+}
+
+.home{
+   flex: 1 auto;
+}
+
+.control{
+  flex: 1 auto;
+}
+
+.update{
+  flex: 1 auto;
+}

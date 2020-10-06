@@ -1,0 +1,26 @@
+.fontDisplay{
+    padding-top: 10px;
+    padding-left: 40px;
+    display: flex;
+}
+
+.icon:hover{
+    box-shadow: 0 0 5px #ffee10;
+    transition: all 0.5s ease;
+}
+
+.fontDisplay div{
+    flex: 1;
+}
+
+.like:hover{
+    color: red;
+}
+
+.comment:hover{
+    color: lawngreen;
+}
+
+.retweet:hover{
+    color: deepskyblue;
+}
